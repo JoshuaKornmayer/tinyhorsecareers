@@ -1,0 +1,146 @@
+
+.careersbackground{
+	background-image: url('images/Careers-header.JPG');
+	background-attachment: fixed;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+/*
+.culturebackground{
+	background-image: url('images/Culture-pic.JPG');
+	height: 750px;
+
+	background-size: 85%;
+	background-position: fixed;
+	background-repeat: no-repeat;
+	
+}
+*/
+
+.culturebackground{
+	background-image: url('images/Culture-pic.JPG');
+	background-size: 85%;
+	background-repeat: no-repeat;
+	height: 700px;
+}
+
+div.benefitsbackground{
+	background-image: url('images/Benefits.JPG');
+	background-size: 85%;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: flex-end;
+	height: 700px;
+
+}
+
+
+.card1{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.card{
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+
+	background-color: #F4EAE9;
+	border-top-color: #E35443;
+}
+
+
+
+
+
+
+.container-fluid{
+	margin-bottom: 130px;
+}
+
+
+.people{
+	color: white;
+	font-family: 'Libre Caslon Text', serif;
+	font-size: 50px;
+	
+}
+
+.people1{
+	color: white;
+	font-family: 'Libre Caslon Text', serif;
+	font-size: 70px;
+	
+}
+
+.text1{
+	display: flex;
+	align-items: center;	
+}
+
+.text2{
+	font-family: 'Libre Caslon Text', serif;
+	font-size: 38px;
+	margin-left: 55px;
+}
+
+
+.line{
+	border: white;
+	border-top: white;
+	border-top-width: 2px;
+	display: block;
+}
+
+.currentopenings{
+	font-family: 'Libre Caslon Text', serif;
+	font-size: 60px;
+	margin-left: 55px;
+
+}
+
+div.job{
+	border-color: lightgrey;
+	font-family: 'Libre Caslon Text', serif;
+	margin-left: 55px;
+}
+
+div.jobname{
+	font-family: 'Libre Caslon Text', serif;
+	margin-left: 40px;
+}
+
+/* footer stying */
+footer{
+    background-color: black;
+    text-transform: uppercase;    
+}
+.footlogo{
+    margin: -2em;
+}
+.footer-row{
+    padding: 5em  5em  3.5em  5em;
+}
+.address, .cities{
+    line-height: 1.75em;    
+}
+.copyright{
+    font-family: 'Libre Caslon Text', serif;
+    color: #5c7c91;
+    font-size: 10px;
+    padding-bottom: 2em;
+    padding-left: 4%;
+}
+.copyright a{
+    color: #5c7c91;
+}
+.copyright a:hover{    color: #e35443;
+}
+
+.cities, .address{
+	color: white;
+}
+
+carto
